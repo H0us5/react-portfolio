@@ -1,0 +1,19 @@
+:root {
+  --green: rgb(42, 252, 152);
+  --blue: rgb(41, 121, 255);
+  --orange: rgb(215, 63, 3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+}

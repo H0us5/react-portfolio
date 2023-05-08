@@ -1,0 +1,18 @@
+.footer {
+  background-color: black;
+  font-family: "Rubik", sans-serif;
+  padding: 15px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.footer__text {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.footer__text::selection {
+  color: var(--blue);
+}
