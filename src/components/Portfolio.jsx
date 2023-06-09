@@ -62,6 +62,13 @@ export default function Portfolio() {
           title="Responsive Web Design #2"
           description="Website for business and companies"
         />
+        <Card
+          src="./img/image6.webp"
+          alt="Notes app"
+          href="https://react-notes-h0us5.vercel.app/"
+          title="Notes app"
+          description="An application for notes with search, filter, likes and adding to favorites"
+        />
       </div>
     </section>
   );
