@@ -69,6 +69,20 @@ export default function Portfolio() {
           title="Notes app"
           description="An application for notes with search, filter, likes and adding to favorites"
         />
+        <Card
+          src="./img/image7.webp"
+          alt="Game of Matches"
+          href="react-matches-game-ts.vercel.app"
+          title="Game of Matches"
+          description="Game of Matches with AI"
+        />
+        <Card
+          src="./img/image8.webp"
+          alt="Cocktails Data Base"
+          href="https://react-cocktail-db-seven.vercel.app/"
+          title="Cocktail Database"
+          description="Database about cocktails with search and recipe"
+        />
       </div>
     </section>
   );
