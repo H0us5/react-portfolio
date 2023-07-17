@@ -72,7 +72,7 @@ export default function Portfolio() {
         <Card
           src="./img/image7.webp"
           alt="Game of Matches"
-          href="react-matches-game-ts.vercel.app"
+          href="https://react-matches-game-ts.vercel.app/"
           title="Game of Matches"
           description="Game of Matches with AI"
         />
