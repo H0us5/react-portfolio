@@ -83,6 +83,13 @@ export default function Portfolio() {
           title="Cocktail Database"
           description="Database about cocktails with search and recipe"
         />
+        <Card
+          src="./img/image9.webp"
+          alt="Clock for programmers"
+          href="https://react-clock-kappa.vercel.app/"
+          title="JavaScript Clock"
+          description="Clock for programmers"
+        />
       </div>
     </section>
   );
